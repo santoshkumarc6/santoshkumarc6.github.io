@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "kreativeFrames",
+    "description": "",
+    "home_page_url": "https://KREATIVEFRAMES.COM",
+    "feed_url": "https://KREATIVEFRAMES.COM/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "santosh yadav"
+    },
+    "items": [
+    ]
+}
